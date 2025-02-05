@@ -1,2 +1,4 @@
 # COMP-5120
-COMP 5120 - Database Systems
+COMP 5120 Projects
+
+Database Systems
